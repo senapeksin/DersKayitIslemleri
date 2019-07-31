@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="DersKayitIslemleri.Site1" %>
+
+<!DOCTYPE html>
+<script src="Scripts/jquery-3.0.0.min.js"></script>
+<script src="Scripts/bootstrap.min.js"></script>
+<link href="Content/bootstrap.min.css" rel="stylesheet" />
+<link href="Content/masterpage.css" rel="stylesheet" />
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <title>anasayfa</title>
+</head>
+<body>
+    <form runat="server">
+        <nav class="mb-1 navbar navbar-expand-lg navbar-dark default-color" style="background-color: black">
+            <a class="navbar-brand" href="#">Ders Kayıt İşlemleri</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-333"
+                aria-controls="navbarSupportedContent-333" aria-expanded="false" aria-label="Toggle navigation">
+
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent-333" style="background: #000000;">
+
+
+                <ul class="navbar-nav ml-auto nav-flex-icons">
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink-333" data-toggle="dropdown"
+                            aria-haspopup="true" aria-expanded="false">
+                            <asp:Label ID="sitelabel" runat="server" Text=""></asp:Label>
+                            <i class="fa fa-user"></i>
+                        </a>
+
+                        <div class="dropdown-menu dropdown-menu-right dropdown-default"
+                            aria-labelledby="navbarDropdownMenuLink-333" style="background: #000000;">
+                            <a class="dropdown-item" style="color: #ffffff" href="Profile.aspx">Profil</a><br />
+                            <a class="dropdown-item" style="color: #ffffff" href="Logout.aspx"><span class="glyphicon glyphicon-user"></span>Çıkış</a>
+                        </div>
+
+                    </li>
+                </ul>
+            </div>
+
+        </nav>
+        <table style="width: 100%; z-index: 9998;">
+            <tr style="width: 100%">
+                <td style="vertical-align: top;">
+                    <div style="width: 100%; max-height: calc(100vh - 50px);" class="sticky">
+                        <div id="wrapper">
+                            <div id="sidebar-wrapper" style="background: #000000;">
+                                <aside id="sidebar">
+                                    <ul id="sidemenu" class="sidebar-nav">
+                                        <li>
+                                            <a href="Default.aspx">
+                                                <span class="sidebar-icon"><i class="fa fa-dashboard"></i></span>
+                                                <span class="sidebar-title">Anasayfa</span>
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a class="accordion-toggle collapsed toggle-switch" data-toggle="collapse" href="#submenu-2">
+                                                <span class="sidebar-icon"><i class="fa fa-users"></i></span>
+                                                <span class="sidebar-title">Kullanıcılar</span>
+                                                <b class="caret"></b>
+                                            </a>
+                                            <ul id="submenu-2" class="panel-collapse collapse panel-switch" role="menu">
+                                                <li><a href="Ogrenci.aspx"><i class="fa fa-caret-right"></i>Öğrenci</a></li>
+                                                <li><a href="Akademisyen.aspx"><i class="fa fa-caret-right"></i>Akademisyen</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <a class="accordion-toggle collapsed toggle-switch" data-toggle="collapse" href="#submenu-3">
+                                                <span class="sidebar-icon"><i class="fa fa-newspaper-o"></i></span>
+                                                <span class="sidebar-title">Dersler</span>
+                                                <b class="caret"></b>
+                                            </a>
+                                            <ul id="submenu-3" class="panel-collapse collapse panel-switch" role="menu">
+                                                <li><a href="Dersler.aspx"><i class="fa fa-caret-right"></i>Ders Seçimi</a></li>
+                                                <li><a href="DersProgramı.aspx"><i class="fa fa-caret-right"></i>Ders Programı</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li>
+                                            <a href="Iletisim.aspx">
+                                                <span class="sidebar-icon"><i class="fa fa-terminal"></i></span>
+                                                <span class="sidebar-title">İletişim</span>
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </aside>
+                            </div>
+
+                            <main id="page-content-wrapper" role="main">
+                            </main>
+                        </div>
+                    </div>
+                </td>
+                <td style="width: 100%; vertical-align: top">
+                    <div>
+                        <asp:ContentPlaceHolder ID="content" runat="server"></asp:ContentPlaceHolder>
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </form>
+
+
+
+</body>
+</html>

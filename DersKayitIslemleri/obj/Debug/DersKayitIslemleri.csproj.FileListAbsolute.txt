@@ -1,0 +1,40 @@
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\csc.exe
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\vbc.exe
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\VBCSCompiler.exe
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.dll.config
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.pdb
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.dll
+C:\Users\SENA\Desktop\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\csc.exe
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\vbc.exe
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\VBCSCompiler.exe
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.dll.config
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\DersKayitIslemleri.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.dll
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.pdb
+C:\Users\SENA\Documents\Visual Studio 2015\Projects\DersKayitIslemleri\DersKayitIslemleri\obj\Debug\DersKayitIslemleri.csprojResolveAssemblyReference.cache
